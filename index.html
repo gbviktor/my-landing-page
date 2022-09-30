@@ -5,35 +5,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Victor Bisterfeld - C# Programmer, GameDeveloper (Unity Game Engine), Germany</title>
+    <title>Victor Bisterfeld - C# Programmer, Game Developer (Unity Game Engine), Germany</title>
     <link rel="stylesheet" href="./assets/style.css">
 </head>
 
 <body>
     <div class="title">
-        <div class="scale-up-hor-center">
-            <span><a href="#L">V</a></span>
-            <span><a href="#I">I</a></span>
-            <span><a href="#C">C</a></span>
-            <span><a href="#T">T</a></span>
-            <span><a href="#O">O</a></span>
-            <span><a href="#R">R</a></span>
-            <span><a href="">#</a></span>
-            <span><a href="#L">B</a></span>
-            <span><a href="#I">I</a></span>
-            <span><a href="#S">S</a></span>
-            <span><a href="#T">T</a></span>
-            <span><a href="#E">E</a></span>
-            <span><a href="#R">R</a></span>
-            <span><a href="#F">F</a></span>
-            <span><a href="#E">E</a></span>
-            <span><a href="#L">L</a></span>
-            <span><a href="#D">D</a></span>
+        <div id="n" class="scale-up-hor-center">
         </div>
         <div class="info scale-up-hor-center">
-    <p>Unity C# Developer </p>
+    <p><p id="0"> Unity C# Developer </p></p>
+
+    <div name="hidden-ho-ho">
+        <div id="V" hidden href="">Victor, it's me...</div>
+        <div id="I" hidden href="">I like develop Games for PC, Android, iOS.<br/>Love C#, Golang, Unity, Kotlin, React, TypeScript and other People...</div>
+        <div id="C" hidden href="">Coffee, i drink: <br/>- ☕/~1000 Lines written code<br/>- ☕/10 Readed lines to understand the code</div>
+        <div id="T" hidden href="">Today is my best day, maybe, because you visit my page ;)</div>
+        <div id="O" hidden href="">Oh no, try again.</div>
+        <div id="R" hidden href="">Read it again... i am not ready yet</div>
+        <a id="hwt-integrate-strapi-unity" hidden target="_blank" href="https://github.com/gbviktor/hwt-integrate-strapi-unity">project/hwt-integrate-strapi-unity</a>
+        <div id="B" hidden href=""></div>
+        <div id="I2" hidden href=""></div>
+        <div id="S" hidden href=""></div>
+        <div id="T" hidden href=""></div>
+        <div id="E" hidden href=""></div>
+        <div id="R2" hidden href=""></div>
+        <div id="F" hidden href=""></div>
+        <div id="E2" hidden href=""></div>
+        <div id="L" hidden href=""></div>
+        <div id="D" hidden href="">Datetime is so complex. <br /> But wait a Minute, you clicked maybe minimum 10 Time for now ;)<br /> It's time to do great things, go do it.</div>
+    </div>
         </div>
     </div>
 </body>
+<script defer>
+    const l = ["V","I","C","T","O","R"]
+    const l2= ["B","I2","S","T","E","R2","F","E2","L","D"]
+    const hwt = "hwt-integrate-strapi-unity"
+    a(l);
+    s(hwt,"#");
+    a(l2);
 
+    window.onhashchange = c;
+    function a(x){x.forEach(y=> { s(y,y[0]);})};
+    function s(x,y){id("n").innerHTML+= '<span><a href="#'+x+'"">'+y[0]+'</a></span>';};
+    function id(x){return document.getElementById(x)};
+    function c(){h();id(window.location.hash.split('#')[1]).hidden = false;}
+    function h(){l.concat(l2).concat([hwt,"0"]).forEach(x=>{id(x).hidden = true;});}
+    
+    if(window.location.hash.startsWith("#")) c();
+</script>
 </html>
