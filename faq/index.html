@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>FAQ – Beast Bros. Games</title>
+    <meta name="description" content="Frequently asked questions about Beast Bros. Games.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    animation: {
+                        'bounce-slow': 'bounce 3s infinite',
+                        'pulse-slow': 'pulse 4s infinite',
+                        'ping-slow': 'ping 5s infinite',
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        .faq-answer a {
+            display: inline-block;
+            padding: 2px 6px;
+            margin: 0 2px;
+            border-radius: 6px;
+            font-weight: 500;
+            color: #f5f3ff;
+            background: rgba(168, 85, 247, 0.15);
+            text-decoration: underline;
+            text-decoration-color: rgba(168, 85, 247, 0.6);
+            text-underline-offset: 3px;
+            transition: all 0.2s ease;
+        }
+
+        .faq-answer a:hover {
+            background: rgba(236, 72, 153, 0.25);
+            color: #ffffff;
+            text-decoration-color: rgba(236, 72, 153, 0.9);
+        }
+    </style>
+</head>
+
+<body class="text-gray-300 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+
+<header class="fixed top-0 left-0 right-0 z-50 bg-slate-900/80 backdrop-blur border-b border-purple-500/20">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+        <a href="/"
+           class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-teal-400 bg-clip-text text-transparent">
+            Beast Bros. Games
+        </a>
+        <nav class="flex gap-6">
+            <a href="/" class="hover:text-white">Home</a>
+            <a href="/faq" class="text-white">FAQ</a>
+            <a href="/impressum" class="hover:text-white">Impressum</a>
+        </nav>
+    </div>
+</header>
+
+<section class="relative pt-28 pb-32 px-4 min-h-screen overflow-hidden">
+    <div class="absolute inset-0 bg-gradient-to-r from-purple-600/20 to-teal-600/20"></div>
+
+    <div class="relative z-10 max-w-4xl mx-auto text-center mb-20">
+        <h1 class="text-5xl md:text-7xl font-bold text-white mb-6">
+            Frequently Asked
+            <span class="bg-gradient-to-r from-pink-400 to-pink-100 bg-clip-text text-transparent mt-5 inline-block">
+                Questions
+            </span>
+        </h1>
+
+        <p class="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
+            Everything you need to know about our games, purchases, and support.
+        </p>
+    </div>
+
+    <div class="relative z-10 max-w-6xl mx-auto">
+        <div class="grid md:grid-cols-[260px_1fr] gap-10">
+            <aside id="faq-categories" class="space-y-2 sticky top-28 h-fit"></aside>
+            <div id="faq-items" class="space-y-3"></div>
+        </div>
+    </div>
+
+    <div class="absolute top-32 left-10 w-20 h-20 bg-purple-500/20 rounded-full animate-bounce-slow"></div>
+    <div class="absolute bottom-40 right-10 w-16 h-16 bg-teal-500/20 rounded-full animate-pulse-slow"></div>
+</section>
+
+<footer class="bg-slate-900/80 py-12 px-4 border-t border-purple-500/20">
+    <div class="max-w-6xl mx-auto text-center">
+        <div class="mb-6">
+            <p class="text-gray-400">Crafting extraordinary gaming experiences</p>
+        </div>
+        <div class="text-gray-500 text-sm">
+            <p>2025 Beast Bros. Games</p>
+            <p class="mt-2">Make games with ❤️ for you.</p>
+        </div>
+        <div class="text-gray-500 text-sm mt-2">
+            <a href="/impressum">Impressum</a>
+        </div>
+    </div>
+</footer>
+
+<script src="./assets/js/main.js" defer></script>
+
+</body>
+</html>

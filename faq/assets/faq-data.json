@@ -1,0 +1,100 @@
+{
+  "Main Problems and Questions": [
+    {
+      "title": "My game crashes! (Android)",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n    <div>Does your game keep crashing? Is it loading improperly? Try the following troubleshooting tips:<\/div><ol><li>Make sure you\u2019ve downloaded the game from the Google Play Store. We can\u2019t verify the safety of versions downloaded from other sites.<\/li><li>Free up device memory by closing running unused background apps.&nbsp;<\/li><li>Increase storage memory by uninstalling apps you no longer need. Also, try transferring (or removing) videos and pictures from your device.&nbsp;<\/li><li><div>Please note, our games run best on devices that meet the following (minimum) specifications:<br>- 0.5 GB of RAM (2GB or more recommended) (Enter Settings &gt; Storage to check available GB)<br>- Android OS 4.1 or better (Enter Settings &gt; About Phone ( or System) &gt; Software Update to check for updates)<br>- 800x480 screen resolution<\/div><\/li><\/ol><div>There\u2019s now a stack of Android devices out there, some operate very differently than others. Please consult your device manual if additional adjustments are needed.<\/div>\r\n  <\/div>",
+      "link": "gamecrashesandroid",
+      "categorie": "0"
+    },
+    {
+      "title": "My game crashes! (iOS)",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n    <div>In order to fully enjoy our game, our game requires at least the following specs:<\/div><div>&nbsp;<\/div><div>- 2 GB of RAM minimum<\/div><div>- iOS 9 or higher<\/div><div>- iPhone 7 or better<\/div><div>- 640 x 960 screen resolution minimum (higher is recommended)<\/div><div><br><\/div><div>Devices such as the iPhone 4S, iPod Touch 5th Gen, iPad 2 or iPad Mini have 512MB RAM the game may not load or perform optimally.<\/div><div>&nbsp;<\/div><div>Sometimes these specs alone aren\u2019t enough to enjoy the games. Some iPhone devices might respond better to our game than others.<\/div>\r\n  <\/div>",
+      "link": "gamecrashesios",
+      "categorie": "0"
+    },
+    {
+      "title": "My CLOUD SAVES doesn't work",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div> If you have more than 60 cars with alot of tuning try to reduce cars number, server cant handle so much data when you upload it to the cloud  <\/div>\r\n  <\/div>",
+      "link": "cloudsavesissue",
+      "categorie": "0"
+    }
+  ],
+  "In-App Purchases & Billing": [
+    {
+      "title": "How do I avoid accidental purchases? (Android)",
+      "answer": "<div dir=\"auto\" class=\"answer\"><div>In order to avoid accidental in-app purchases, you will need to adjust your Google Play Store settings. </div><div><br /></div><div>Please follow these steps: </div><div><br /></div><div>1.  Access the Google Play Store. &nbsp; </div><div>2.  Enter the &quot;Settings&quot; menu. &nbsp;&nbsp; </div><div>3.  Look for &quot;User Controls&quot; and activate &quot;Use password to restrict purchases&quot; &nbsp; </div><div>4.  Enter your password and tap confirm when finished. &nbsp; &nbsp; </div><div>5.  Any subsequent in-game purchase after changing your settings will require your security password.&nbsp; </div><div><br /></div><div>Remember: after entering your password once, you can make purchases on Google Play for 30 minutes without entering it again. If your device is running Android OS 4.2 or higher and someone else regularly uses it, you might (depending on your device) be able to create a separate User profile for them by going to Settings &gt; Users &gt; Add user, then following the on-screen instructions. </div><div><br /></div> <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "I can't see the shop or make an order! (iOS)",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n    <div>Apple processes payments made toward the game, so it’s important to configure device settings prior to making your order.<\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "I can't see the shop or make an order! (Android)",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div>   <div>Google processes all payments made through the Google Play Store.&nbsp; <\/div><div><br \/><\/div><div>To resolve any related purchasing issues, please consult <a href=\"https:\/\/support.google.com\/googleplay\/answer\/1267137?co=GENIE.Platform%3DAndroid&amp;hl=en\" rel=\"nofollow\" target=\"_blank\">Google\u2019s Support site here<\/a>.&nbsp; <\/div><div><br \/><\/div><div> <u>Emergency troubleshooting:<\/u>&nbsp; <\/div><div><br \/><\/div><div> <b>Payment method greyed out \/ \u201Cnot eligible\u201D&nbsp;<\/b> <\/div><div> 1) If you are trying to pay with a credit\/debit card, check the expiration date &amp; billing address: <\/div><ul><li><div>Sign into payments.google.com<\/div><\/li><li><div>In the left hand navigation, select \u201CPayment Methods\u201D<\/div><\/li><li><div>Check the card\u2019s expiration date and billing address<\/div><\/li><\/ul><div> <\/div><div> 2) Check if the billing country and the legal country at payments.google.com match <br \/> <\/div><ul><li><div>Sign into payments.google.com<\/div><\/li><li><div>In the left hand navigation, select \u201CPayment Methods\u201D<\/div><\/li><li><div>Check the payment methods\u2019 billing country<\/div><\/li><li><div>In the top right corner, click on the \u201Cgear\u201D icon to access the \u201CSettings\u201D page<\/div><\/li><li><div>Check the legal country&nbsp;<\/div><\/li><\/ul><div> <\/div><div>3) Try a different payment method <\/div><div><br \/><\/div><div><b>Payment method is declined by card issuer or carrier (usually \u201CPayment method declined\u201D error triggered):<\/b>&nbsp; <\/div><div>Contact card issuer or carrier OR try a different payment method <\/div><div> <\/div>\r\n              <\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "Add, remove, switch or edit a payment method",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div>   <div>To purchase in-app content you first need to add a valid payment method to your Google Account. You can add several payment methods (Card, DCB, Paypal) to one Google account.&nbsp; <\/div><div><br \/><\/div><div> <b>Add a payment method<\/b> <\/div><ol><li><div>Open the Google Play Store app&nbsp;<\/div><\/li><li><div>Tap on the icon with three horizontal lines &gt; Payment methods<\/div><\/li><li><div>Under &quot;Add payment method&quot;, select the payment method you want to add<\/div><\/li><li><div>Follow the instructions and the new payment method will be added to your Google account<\/div><\/li><\/ol><div>For more information about available payment options go see this <a href=\"https:\/\/support.google.com\/googleplay\/answer\/2651410?hl=en\" rel=\"nofollow\" target=\"_blank\">Help Center article.<\/a> <\/div><div><br \/><\/div><div><b> Edit\/Remove a payment method<\/b> <\/div><ol><li><div>Open the Google Play Store app&nbsp;<\/div><\/li><li><div>Tap on the icon with three horizontal lines &gt; Payment methods &gt; More payment settings<\/div><\/li><li><div>If asked, sign in to pay.google.com<\/div><\/li><li><div>Under the payment method to be edited or removed, tap <b>Edit<\/b> or <b>Remove<\/b> and then follow the instructions.<\/div><\/li><\/ol><div> <b>Change your payment method while making a purchase<\/b> <\/div><ol><li><div>Click on an in-game item you would like to purchase<\/div><\/li><li><div>Under the price, tap on the arrow pointing right<\/div><\/li><li><div>Choose from one of your existing payment methods or add a new one<\/div><\/li><li><div>Complete your purchase<\/div><\/li><\/ol><div>Note: if you add a payment method while making a purchase, it will be saved in your account.   <\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "I didn't get my order!",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div>Orders deliver instantly. If you don't receive your order right away, proceed as shown below:<\/div><div><br><\/div><div><b>Apple<\/b><\/div><div>All payments made toward the game are processed by Apple. You can reach them right <a href=\"https:\/\/support.apple.com\/contact\" rel=\"nofollow\" target=\"_blank\">here<\/a>.<\/div><div><br><\/div><div><b>Google<\/b><\/div><div>Please contact us with a screenshot of your order receipt. The transaction ID (looks similar to this - GPA.1234-1234-1234-12345) at the bottom of the document must be visible on the screenshot.<\/div><div><br><\/div><div><b>Missing a subscription?<\/b><\/div><div><br><\/div><div>In the case that you don't see the subscription you've paid for appear in the game, try following the below steps in order until your problem is solved:<\/div><ol><li>Make sure you are logged into your app store (e.g. Google Play, iOS AppStore) with the same account with which you made your purchase.<\/li><li>Log out and log in again with the account on which you made the purchase.<\/li><\/ol><div>If these steps aren't helpful, please contact us with a screenshot of the receipt for your subscription purchase.<\/div><div><br><\/div><div>Our apologies for this inconvenience, please let us know if there's anything more we can do for you.<\/div><div><br><\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "How do I disable or enable in-app purchases?",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div>To set restrictions on your device, please refer to the link:<\/div><div><a href=\"https:\/\/support.google.com\/googleplay\/answer\/1626831?hl=en\" rel=\"nofollow\" target=\"_blank\">For Google&nbsp;<\/a><\/div><div><a href=\"https:\/\/support.apple.com\/en-us\/HT204396\" rel=\"nofollow\" target=\"_blank\">For Apple&nbsp;<\/a><\/div><div><br><\/div><div>If you\u2019d like to continue making in-app purchases, set the device to require your password every time you make a purchase or every fifteen minutes.<\/div><div><br><\/div>\r\n              <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "I've received a bill for a purchase I didn't make. What should I do if I suspect fraudulent activity?",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n \r\n    <div>If you or your child have never played one of our games, but suspect that there\u2019s been fraudulent transaction activity on your account, then you should immediately contact Apple (for iOS devices) or Google (for Android devices), who control the transaction process. <\/div><div><br><\/div><div>For Apple (iOS) devices: <\/div><div>Visit <a href=\"https:\/\/support.apple.com\/itunes\" rel=\"nofollow\" target=\"_blank\">Apple support<\/a>, look for \"Tell us how we can help\" and select \"Get support\" link, there will be a pop-up window, and you may select \"iTunes Store\" and then choose the option that fits you best.<\/div><div><br><\/div><div>For Google (Android) devices: <\/div><div>Please send an email to parents@montana-games.org <\/div><div>In your message please state the name of the game the purchase was made in and add the receipt of the purchase. The transaction ID (looks similar to this - GPA.1234-1234-1234-12345) at the bottom of the document must be visible. Receipts for transactions have been emailed to you by Google after each purchase.<\/div><div><br><\/div><div>If you\u2019ve already contacted Apple or Google about suspected fraudulent activity and they\u2019ve sent you to us, please contact us at transactions@montana-games.org. Be sure to include specific details like what happened and when, transaction ID receipts, relevant screenshots, etc. <\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "Where do I find my purchase history?",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n <div>To review your purchase history, please check the guides below: <\/div><div><br><\/div><div><u>ANDROID<\/u> <\/div><div><br><\/div><div>1.  Enter pay.google.com, then log in with your desired Google account <\/div><div>2.  Select \u201CSubscriptions and services\u201D<\/div><div>3. Select \"View purchases\".<\/div><div><br><\/div><div>For more help with this, please <a href=\"https:\/\/support.google.com\/store\/answer\/6160235?hl=en\" rel=\"nofollow\" target=\"_blank\">see here<\/a>.<\/div><div><br><\/div><div><u>iOS<\/u> <\/div><div><br><\/div><div>1.  Open iTunes on your computer.&nbsp; <\/div><div>2.  Select your username (this should be your e-mail address), and choose \u201CAccount\u201D <\/div><div>3.  Scroll down to \u201CPurchase History\u201D, and choose \u201CSee All\u201D <\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    },
+    {
+      "title": "Who processes in-app purchases?",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n<div>Here at Montana-Games, we don\u2019t process payments for in-app purchases, or have access to any of your credit card information. <\/div><div><br><\/div><div>That\u2019s because the payment transactions themselves are completed through Apple\u2019s App Store or Google Play (depending on your device) via your personal email address associated with that account. <\/div><div><br><\/div><div>Receipts for these transactions are emailed to you by Apple or Google after each purchase (though please note that any post-purchase processes are controlled by Apple or Google and are subject to change by them).<\/div>\r\n  <\/div>",
+      "link": "iap",
+      "categorie": "0"
+    }
+  ],
+  "Privacy Policy & Terms of Service": [
+    {
+      "title": "Terms of Service",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n<div>We all love to duel but there are some rules everyone has to follow.<\/div><div>&nbsp;<\/div><div>Check \u2018em out:<\/div><div><br><\/div><div><a href=\"/terms-of-use\" rel=\"nofollow\" target=\"_blank\">Terms of Service<\/a><\/div>\r\n<\/div>",
+      "link": "terms-of-service",
+      "categorie": "5"
+    },
+    {
+      "title": "What's Montana Games policy on privacy?",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n<div>Your privacy is always on the top of our minds. We don\u2019t have access to any of your credit card information. That\u2019s because the payment transactions themselves are completed through Apple\u2019s App Store or Google Play (depending on your device) via your personal email address associated with that account.&nbsp; <\/div><div><br><\/div><div>We don\u2019t collect much personal data from our players. We mainly collect device identifiers and IP addresses, associated with gameplay data. We rarely have a need to collect directly identifying information, such as your email address (we only collect your email address, if you choose to send it to us). For more information on what data we collect and why, visit our <a href=\"/privacy-policy\" rel=\"nofollow\" target=\"_blank\">Privacy Policy<\/a> . <\/div>\r\n              <\/div>",
+      "link": "privacy-policy",
+      "categorie": "111"
+    }
+  ],
+  "Contact Us": [
+    {
+      "title": "How to Contact us ? ",
+      "answer": "<div dir=\"auto\" class=\"answer\">\r\n                <div>Your privacy is always on the top of our minds. We don\u2019t have access to any of your credit card information. That\u2019s because the payment transactions themselves are completed through Apple\u2019s App Store or Google Play (depending on your device) via your personal email address associated with that account.&nbsp; <\/div><div><br><\/div><div>We don\u2019t collect much personal data from our players. We mainly collect device identifiers and IP addresses, associated with gameplay data. We rarely have a need to collect directly identifying information, such as your email address (we only collect your email address, if you choose to send it to us). For more information on what data we collect and why, visit our <a href=\"privacy-policy\" rel=\"nofollow\" target=\"_blank\">Privacy Policy<\/a> . <\/div>\r\n              <\/div>",
+      "link": "contact-us",
+      "categorie": "111"
+    }
+  ]
+}
